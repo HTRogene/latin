@@ -32,129 +32,86 @@ characters:
   - e
   - t
   - a
-  - u
   - s
+  - u
   - n
-  - o
-  - r
-  - c
-  - m
   - ̃
+  - o
+  - c
+  - r
   - d
-  - l
   - .
+  - m
+  - l
   - p
   - b
   - q
-  - g
   - f
-  - 
+  - g
   - h
-  - x
-  - ̾
-  - ꝰ
-  - ꝑ
-  - ':'
-  - '&'
-  - ͥ
-  - ł
-  - ̧
-  - I
   - ⁊
-  - ͣ
-  - E
-  - ꝵ
-  - C
-  - S
-  - A
-  - N
+  - ꝰ
   - ᷑
-  - D
-  - Q
-  - U
-  - ͦ
-  - ','
-  - ꝓ
+  - ł
+  - ͥ
+  - I
+  - ꝑ
+  - x
+  - 
+  - ̾
   - ꝙ
-  - ¶
-  - T
-  - y
+  - ̧
+  - ꝓ
+  - S
+  - ꝵ
   - ꝯ
-  - P
-  - ꝗ
-  - M
-  - ħ
+  - ͣ
+  - '&'
+  - y
   - R
-  - đ
-  - H
-  - O
-  - /
-  - '-'
-  - F
-  - L
-  - ÷
-  - ͬ
-  - ⟦
-  - ⟧
-  - "'"
-  - z
+  - ͦ
+  - ħ
+  - N
+  - E
+  - ':'
+  - w
+  - C
+  - T
+  - U
   - ᷤ
-  - B
+  - A
+  - H
+  - z
   - G
-  - '4'
-  - '1'
-  - '3'
-  - ^
-  - ͫ
-  - '2'
-  - ͭ
+  - Q
+  - P
+  - D
+  - M
   - ẜ
-  - X
-  - ͨ
-  - ͤ
-  - '0'
-  - '6'
+  - O
+  - B
   - k
-  - '7'
-  - '9'
-  - ƀ
-  - ᷝ
-  - '8'
-  - ͧ
-  - K
-  - Ø
-  - Ꝙ
-  - '*'
-  - '5'
-  - ᵈ
-  - ͯ
-  - ℥
-  - ¬
-  - ᷠ
-  - Y
+  - ÷
+  - ͤ
+  - ͬ
+  - '2'
+  - W
+  - L
+  - đ
+  - F
+  - ͫ
+  - X
   - ̵
-  - Z
-  - ꝭ
-  - +
-  - ι
+  - '9'
+  - ᷠ
+  - ᵐ
+  - Η
   - Ι
-  - Μ
-  - ̈
-  - Ε
-  - υ
-  - χ
-  - α
-  - ρ
-  - σ
-  - τ
-  - κ
-  - ο
-  - ́
-  - ν
-  - Τ
-  - ❧
-  - ⁿ
-  - ᶻ
+  - ͭ
+  - ᵗ
+  - ͧ
+  - ꝗ
+  - ̇
   mode: NFD
 description: >-
   Ground truth of Latin medieval manuscripts. Manuscripts vary in themes,
@@ -192,11 +149,11 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/medieval-latin
 volume:
-- count: 299062
+- count: 38940
   metric: characters
-- count: 142
+- count: 12
   metric: files
-- count: 8879
+- count: 1038
   metric: lines
-- count: 749
+- count: 42
   metric: regions
