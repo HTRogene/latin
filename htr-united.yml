@@ -30,79 +30,80 @@ characters:
   members:
   - i
   - e
-  - t
   - a
+  - t
   - u
   - s
-  - ̃
   - n
+  - ̃
   - o
   - c
   - r
   - d
-  - .
   - m
   - l
+  - .
   - p
   - b
   - q
   - f
   - g
   - h
-  - ⁊
   - ꝰ
-  - ᷑
-  - ͥ
-  - ł
-  - ꝑ
-  - I
-  - x
   - 
+  - ͥ
+  - ꝑ
+  - ⁊
+  - ᷑
+  - ł
+  - x
   - ̾
+  - I
+  - '&'
+  - ':'
+  - ̧
+  - ꝵ
+  - '-'
   - ꝙ
   - ꝓ
-  - ̧
-  - ͣ
   - S
-  - ꝵ
-  - ꝯ
-  - '&'
-  - y
+  - ͣ
   - ͦ
+  - ꝯ
+  - y
+  - ᷤ
   - R
-  - ħ
   - E
-  - N
-  - ':'
+  - ħ
   - C
   - Q
+  - D
+  - N
   - w
   - U
-  - T
   - A
-  - ᷤ
+  - T
+  - P
   - H
-  - D
+  - k
   - z
   - G
-  - P
-  - M
-  - O
-  - ẜ
   - ¶
+  - O
+  - M
+  - ẜ
+  - ͤ
+  - W
   - B
-  - k
   - ÷
   - ͬ
-  - ͤ
-  - '2'
   - L
+  - đ
+  - '2'
   - ᵗ
-  - W
+  - F
   - ͧ
   - X
-  - đ
-  - F
   - ͫ
   - ᵐ
   - ⁰
@@ -112,6 +113,8 @@ characters:
   - ͭ
   - ᷠ
   - ᶜ
+  - K
+  - '7'
   - Η
   - Ι
   - ̇
@@ -158,11 +161,11 @@ transcription-guidelines: >2-
   [Kraken](https://kraken.re))
 url: https://github.com/HTRomance-Project/medieval-latin
 volume:
-- count: 43890
+- count: 60687
   metric: characters
-- count: 16
+- count: 21
   metric: files
-- count: 1172
+- count: 1617
   metric: lines
-- count: 53
+- count: 82
   metric: regions
