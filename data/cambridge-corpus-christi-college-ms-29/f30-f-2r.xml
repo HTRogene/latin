@@ -1504,17 +1504,17 @@
           
           <TextLine ID="eSc_line_f14bd8c1"
                     TAGREFS="LT6928"
-                    BASELINE="872 322 954 326" 
-                    HPOS="869"
+                    BASELINE="865 322 954 326" 
+                    HPOS="863"
                     VPOS="308"
-                    WIDTH="83"
-                    HEIGHT="26">
-            <Shape><Polygon POINTS="917 308 896 308 875 308 879 310 869 321 880 334 950 329 952 325 950 308 938 308"/></Shape>
+                    WIDTH="89"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="946 310 925 308 904 308 884 308 863 308 863 320 863 329 950 329 952 325 950 310 946 310"/></Shape>
 	    <String CONTENT="⁊ĩfͥnꝰ fiũt"
-                    HPOS="869"
+                    HPOS="863"
                     VPOS="308"
-                    WIDTH="83"
-                    HEIGHT="26"></String>
+                    WIDTH="89"
+                    HEIGHT="21"></String>
           </TextLine>
 
           
@@ -3510,13 +3510,13 @@
           
           
           <TextLine ID="eSc_line_2676e6bf"
-                    
+                    TAGREFS="LT6384"
                     BASELINE="13 930 26 930" 
                     HPOS="12"
                     VPOS="910"
                     WIDTH="13"
                     HEIGHT="52">
-            <Shape><Polygon POINTS="12 910 12 929 12 962 25 962 25 929 25 910 12 910"/></Shape>
+            <Shape><Polygon POINTS="12 929 12 962 25 962 25 929 25 910 12 910"/></Shape>
 	    <String CONTENT=""
                     HPOS="12"
                     VPOS="910"

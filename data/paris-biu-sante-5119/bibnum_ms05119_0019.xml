@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT14607" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT14608" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="BT14607" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT14608" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
     <OtherTag ID="LT6166" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -357,6 +357,23 @@
 
           
           
+          <TextLine ID="line_28"
+                    TAGREFS="LT6166"
+                    BASELINE="350 1975 1605 1967" 
+                    HPOS="345"
+                    VPOS="1888"
+                    WIDTH="1259"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="803 1890 781 1890 779 1890 776 1890 730 1906 719 1909 703 1906 636 1893 633 1893 630 1893 628 1893 609 1906 606 1909 579 1909 380 1896 377 1896 374 1896 345 1906 347 1974 347 2009 1601 2003 1604 1966 1595 1896 1312 1904 1267 1898 1180 1888 1178 1888 1175 1888 1172 1888 1172 1890 1159 1901 1151 1909 1000 1909 994 1904 984 1893 984 1890 981 1890 978 1890 857 1890 830 1890"/></Shape>
+	    <String CONTENT="sunt ei bona ¶ Inquit seruus regis"
+                    HPOS="345"
+                    VPOS="1888"
+                    WIDTH="1259"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="line_19"
                     TAGREFS="LT6166"
                     BASELINE="343 2059 1618 2043" 
@@ -493,7 +510,7 @@
                     VPOS="339"
                     WIDTH="488"
                     HEIGHT="91">
-            <Shape><Polygon POINTS="1671 379 1668 422 1738 412 1760 422 1771 428 1773 428 1776 430 1868 430 1868 428 1870 428 1873 428 1887 420 1903 409 1946 417 2016 430 2019 430 2154 409 2156 385 2151 339 1671 339 1671 379"/></Shape>
+            <Shape><Polygon POINTS="1668 422 1738 412 1760 422 1771 428 1773 428 1776 430 1868 430 1868 428 1870 428 1873 428 1887 420 1903 409 1946 417 2016 430 2019 430 2154 409 2156 385 2151 339 1671 339 1671 379"/></Shape>
 	    <String CONTENT="seruiaᶜ. sanitatis ei"
                     HPOS="1668"
                     VPOS="339"
@@ -566,27 +583,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="line_28"
-                    TAGREFS="LT6166"
-                    BASELINE="350 1975 1605 1967" 
-                    HPOS="345"
-                    VPOS="1888"
-                    WIDTH="1259"
-                    HEIGHT="121">
-            <Shape><Polygon POINTS="830 1890 803 1890 781 1890 779 1890 776 1890 730 1906 719 1909 703 1906 636 1893 633 1893 630 1893 628 1893 609 1906 606 1909 579 1909 380 1896 377 1896 374 1896 345 1906 347 1974 347 2009 1601 2003 1604 1966 1595 1896 1312 1904 1267 1898 1180 1888 1178 1888 1175 1888 1172 1888 1172 1890 1159 1901 1151 1909 1000 1909 994 1904 984 1893 984 1890 981 1890 978 1890 857 1890 830 1890"/></Shape>
-	    <String CONTENT="sunt ei bona ¶ Inquit seruus regis"
-                    HPOS="345"
-                    VPOS="1888"
-                    WIDTH="1259"
-                    HEIGHT="121"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
