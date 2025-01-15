@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install chocomufin
+          pip install "chocomufin>=1.0.0"
       - name: Run ChocoMufin
         run: |
           chocomufin --norm NFD control table.csv ./data/*/*.xml --ignore chocomufin.xml
