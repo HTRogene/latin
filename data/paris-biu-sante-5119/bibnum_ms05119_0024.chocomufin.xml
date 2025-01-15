@@ -92,7 +92,7 @@
           
           <TextLine ID="eSc_line_3f907ce5" TAGREFS="LT6928" BASELINE="858 1109 915 1111" HPOS="852" VPOS="1082" WIDTH="60" HEIGHT="41">
             <Shape><Polygon POINTS="910 1082 882 1082 855 1082 855 1106 852 1120 907 1123 912 1109 910 1082 910 1082"/></Shape>
-	    <String CONTENT="⁜" HPOS="852" VPOS="1082" WIDTH="60" HEIGHT="41"/>
+	    <String CONTENT="‸" HPOS="852" VPOS="1082" WIDTH="60" HEIGHT="41"/>
           </TextLine>
 
           
@@ -209,7 +209,7 @@
           
           <TextLine ID="eSc_line_446a1fae" TAGREFS="LT6166" BASELINE="273 1125 349 1122" HPOS="267" VPOS="1082" WIDTH="80" HEIGHT="60">
             <Shape><Polygon POINTS="322 1082 308 1082 267 1087 270 1123 270 1142 344 1133 347 1120 338 1082 322 1082"/></Shape>
-	    <String CONTENT="⁜" HPOS="267" VPOS="1082" WIDTH="80" HEIGHT="60"/>
+	    <String CONTENT="‸" HPOS="267" VPOS="1082" WIDTH="80" HEIGHT="60"/>
           </TextLine>
 
           

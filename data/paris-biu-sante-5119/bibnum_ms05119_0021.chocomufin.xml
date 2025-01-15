@@ -22,7 +22,7 @@
           
           <TextLine ID="eSc_line_7c0851fd" TAGREFS="LT6928" BASELINE="356 389 426 389" HPOS="353" VPOS="353" WIDTH="71" HEIGHT="49">
             <Shape><Polygon POINTS="408 353 381 353 353 353 353 388 353 402 424 399 424 388 424 353 408 353"/></Shape>
-	    <String CONTENT="⁜" HPOS="353" VPOS="353" WIDTH="71" HEIGHT="49"/>
+	    <String CONTENT="‸" HPOS="353" VPOS="353" WIDTH="71" HEIGHT="49"/>
           </TextLine>
 
           
@@ -216,14 +216,14 @@
           
           <TextLine ID="line_0" TAGREFS="LT6927" BASELINE="1558 340 2155 322" HPOS="1554" VPOS="274" WIDTH="599" HEIGHT="82">
             <Shape><Polygon POINTS="2071 274 2044 274 2017 274 1989 274 1962 274 1935 274 1908 274 1881 274 1867 274 1859 280 1856 282 1845 282 1804 274 1799 274 1772 274 1758 274 1739 282 1734 288 1554 288 1557 339 1557 356 2150 342 2153 320 2147 277 2096 274 2071 274"/></Shape>
-	    <String CONTENT="traᵗꝰ .i. ca. uniᶜᵘᷤᷤ. de cõꝭuaͨ." HPOS="1554" VPOS="274" WIDTH="599" HEIGHT="82"/>
+	    <String CONTENT="traᵗꝰ .i. ca. uniᶜᵘˢ. de cõꝭuaͨ." HPOS="1554" VPOS="274" WIDTH="599" HEIGHT="82"/>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_1b41cb78" TAGREFS="LT6166" BASELINE="1620 377 1694 375" HPOS="1617" VPOS="339" WIDTH="76" HEIGHT="52">
             <Shape><Polygon POINTS="1619 375 1619 391 1690 383 1693 372 1685 339 1617 339 1619 375"/></Shape>
-	    <String CONTENT="⁜" HPOS="1617" VPOS="339" WIDTH="76" HEIGHT="52"/>
+	    <String CONTENT="‸" HPOS="1617" VPOS="339" WIDTH="76" HEIGHT="52"/>
           </TextLine>
 
           
@@ -237,7 +237,7 @@
           
           <TextLine ID="line_27" TAGREFS="LT6166" BASELINE="1585 476 2022 462" HPOS="1581" VPOS="416" WIDTH="438" HEIGHT="97">
             <Shape><Polygon POINTS="1584 475 1584 513 2017 497 2019 459 2011 416 1581 429 1584 475"/></Shape>
-	    <String CONTENT="proueĩent̾ a stoᶜͦ." HPOS="1581" VPOS="416" WIDTH="438" HEIGHT="97"/>
+	    <String CONTENT="proueĩent̾ a stoᶜᵒ." HPOS="1581" VPOS="416" WIDTH="438" HEIGHT="97"/>
           </TextLine>
 
           

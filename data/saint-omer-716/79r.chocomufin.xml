@@ -99,7 +99,7 @@
           
           <TextLine ID="eSc_line_102530d2" TAGREFS="LT6149" BASELINE="350 1480 1522 1486" HPOS="347" VPOS="1416" WIDTH="1175" HEIGHT="117">
             <Shape><Polygon POINTS="350 1480 347 1511 450 1530 452 1530 586 1516 1063 1533 1066 1533 1519 1516 1522 1486 1516 1416 350 1416 350 1480"/></Shape>
-	    <String CONTENT="tr̃e una cũ sociis int̾uentu egregii confessoriᷤᷤ" HPOS="347" VPOS="1416" WIDTH="1175" HEIGHT="117"/>
+	    <String CONTENT="tr̃e una cũ sociis int̾uentu egregii confessoriˢ" HPOS="347" VPOS="1416" WIDTH="1175" HEIGHT="117"/>
           </TextLine>
 
           
@@ -176,7 +176,7 @@
           
           <TextLine ID="eSc_line_046d5130" TAGREFS="LT6149" BASELINE="350 2294 1516 2313" HPOS="347" VPOS="2222" WIDTH="1169" HEIGHT="125">
             <Shape><Polygon POINTS="350 2294 347 2325 1511 2347 1516 2313 1513 2241 350 2222 350 2294"/></Shape>
-	    <String CONTENT="lũ est oꝑari dignatꝰ. iuuante dño &amp; meritiᷤᷤ" HPOS="347" VPOS="2222" WIDTH="1169" HEIGHT="125"/>
+	    <String CONTENT="lũ est oꝑari dignatꝰ. iuuante dño &amp; meritiˢ" HPOS="347" VPOS="2222" WIDTH="1169" HEIGHT="125"/>
           </TextLine>
 
           
@@ -403,7 +403,7 @@
           
           <TextLine ID="eSc_line_67caa2ef" TAGREFS="LT6149" BASELINE="1713 1125 2961 1138" HPOS="1711" VPOS="1066" WIDTH="1250" HEIGHT="109">
             <Shape><Polygon POINTS="1713 1125 1711 1169 2955 1175 2961 1138 2961 1077 1713 1066 1713 1125"/></Shape>
-	    <String CONTENT="fluuiũ alteiȩ. Ipso autẽ fluuii ponte beatissimiᷤᷤ" HPOS="1711" VPOS="1066" WIDTH="1250" HEIGHT="109"/>
+	    <String CONTENT="fluuiũ alteiȩ. Ipso autẽ fluuii ponte beatissimiˢ" HPOS="1711" VPOS="1066" WIDTH="1250" HEIGHT="109"/>
           </TextLine>
 
           
@@ -508,14 +508,14 @@
           
           <TextLine ID="eSc_line_bd09b027" TAGREFS="LT6149" BASELINE="1702 2405 2941 2427" HPOS="1700" VPOS="2350" WIDTH="1241" HEIGHT="108">
             <Shape><Polygon POINTS="1702 2405 1700 2441 2936 2458 2941 2427 2939 2361 1702 2350 1702 2405"/></Shape>
-	    <String CONTENT="ta: ut nulła ulteriꝰ molestiam neq lesionẽ corporiᷤᷤ" HPOS="1700" VPOS="2350" WIDTH="1241" HEIGHT="108"/>
+	    <String CONTENT="ta: ut nulła ulteriꝰ molestiam neq lesionẽ corporiˢ" HPOS="1700" VPOS="2350" WIDTH="1241" HEIGHT="108"/>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_3df15035" TAGREFS="LT6149" BASELINE="1697 2494 2933 2513" HPOS="1694" VPOS="2438" WIDTH="1239" HEIGHT="120">
             <Shape><Polygon POINTS="1697 2494 1694 2541 2530 2541 2547 2544 2608 2555 2611 2555 2722 2544 2736 2544 2741 2544 2783 2558 2786 2558 2789 2558 2930 2544 2933 2513 2933 2455 1697 2438 1697 2494"/></Shape>
-	    <String CONTENT="pateretur. S &amp; febris quȩ antea solita erat ipsiuᷤᷤ" HPOS="1694" VPOS="2438" WIDTH="1239" HEIGHT="120"/>
+	    <String CONTENT="pateretur. S &amp; febris quȩ antea solita erat ipsiuˢ" HPOS="1694" VPOS="2438" WIDTH="1239" HEIGHT="120"/>
           </TextLine>
 
           

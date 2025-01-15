@@ -349,7 +349,7 @@
           
           <TextLine ID="line_44" TAGREFS="LT6203" BASELINE="631 1510 860 1510" HPOS="631.0" VPOS="1482.0" WIDTH="229.0" HEIGHT="48.0">
             <Shape><Polygon POINTS="839 1482 823 1482 807 1482 791 1482 775 1482 759 1482 743 1482 727 1482 711 1482 695 1482 679 1482 663 1482 647 1482 631 1482 631 1510 631 1530 860 1523 860 1510 860 1482 855 1482 839 1482"/></Shape>
-	    <String CONTENT="Sicut autem quiᷤᷤ" HPOS="631.0" VPOS="1482.0" WIDTH="229.0" HEIGHT="48.0"/>
+	    <String CONTENT="Sicut autem quiˢ" HPOS="631.0" VPOS="1482.0" WIDTH="229.0" HEIGHT="48.0"/>
           </TextLine>
 
           
@@ -576,7 +576,7 @@
           
           <TextLine ID="line_61" TAGREFS="LT6203" BASELINE="905 895 1206 888" HPOS="902" VPOS="837" WIDTH="310" HEIGHT="79">
             <Shape><Polygon POINTS="1166 837 1142 837 1118 837 1110 837 902 846 904 894 904 916 1204 901 1203 883 1212 847 1190 837"/></Shape>
-	    <String CONTENT="ꝑ ipsum factuᷤᷤ" HPOS="902" VPOS="837" WIDTH="310" HEIGHT="79"/>
+	    <String CONTENT="ꝑ ipsum factuˢ" HPOS="902" VPOS="837" WIDTH="310" HEIGHT="79"/>
           </TextLine>
 
           
@@ -660,7 +660,7 @@
           
           <TextLine ID="line_73" TAGREFS="LT6203" BASELINE="908 1570 1218 1565" HPOS="906" VPOS="1515" WIDTH="312" HEIGHT="71">
             <Shape><Polygon POINTS="908 1570 908 1586 1218 1581 1218 1565 1213 1515 906 1526 908 1570"/></Shape>
-	    <String CONTENT="nomine eius: qͥ" HPOS="906" VPOS="1515" WIDTH="312" HEIGHT="71"/>
+	    <String CONTENT="nomine eius: qⁱ" HPOS="906" VPOS="1515" WIDTH="312" HEIGHT="71"/>
           </TextLine>
 
           
@@ -674,7 +674,7 @@
           
           <TextLine ID="line_75" TAGREFS="LT6203" BASELINE="911 1678 1217 1678" HPOS="911" VPOS="1632" WIDTH="306" HEIGHT="67">
             <Shape><Polygon POINTS="911 1678 911 1694 1215 1699 1217 1678 1215 1632 911 1637 911 1678"/></Shape>
-	    <String CONTENT="nibus neq ex" HPOS="911" VPOS="1632" WIDTH="306" HEIGHT="67"/>
+	    <String CONTENT="nibus: neq ex" HPOS="911" VPOS="1632" WIDTH="306" HEIGHT="67"/>
           </TextLine>
 
           
@@ -2049,7 +2049,7 @@
           
           <TextLine ID="line_233" TAGREFS="LT6203" BASELINE="2191 2059 2779 2059" HPOS="2190" VPOS="2028" WIDTH="608" HEIGHT="51">
             <Shape><Polygon POINTS="2742 2031 2718 2031 2694 2031 2670 2031 2646 2031 2622 2031 2598 2031 2574 2031 2550 2031 2526 2031 2502 2031 2478 2028 2190 2028 2190 2057 2190 2079 2778 2074 2798 2053 2776 2031 2766 2031"/></Shape>
-	    <String CONTENT="ultra trepidatio mea progredi possit reddit sacͣ" HPOS="2190" VPOS="2028" WIDTH="608" HEIGHT="51"/>
+	    <String CONTENT="ultra trepidatio mea progredi possit reddit sacᵃ" HPOS="2190" VPOS="2028" WIDTH="608" HEIGHT="51"/>
           </TextLine>
 
           
@@ -2169,7 +2169,7 @@
           
           <TextLine ID="eSc_line_e64b87b8" TAGREFS="LT6203" BASELINE="2788 413 2897 411" HPOS="2785" VPOS="386" WIDTH="111" HEIGHT="41">
             <Shape><Polygon POINTS="2871 386 2840 391 2791 388 2785 412 2790 427 2832 425 2848 424 2859 422 2870 422 2888 421 2896 410 2893 405 2891 393"/></Shape>
-	    <String CONTENT="Qͥd ꝯmune" HPOS="2785" VPOS="386" WIDTH="111" HEIGHT="41"/>
+	    <String CONTENT="Qⁱd ꝯmune" HPOS="2785" VPOS="386" WIDTH="111" HEIGHT="41"/>
           </TextLine>
 
           
@@ -2578,7 +2578,7 @@
           
           <TextLine ID="line_279" TAGREFS="LT6203" BASELINE="2907 1546 3512 1541" HPOS="2906.0" VPOS="1520.0" WIDTH="606.0" HEIGHT="40.0">
             <Shape><Polygon POINTS="2907 1546 2907 1560 3510 1560 3512 1541 3507 1520 2906 1523 2907 1546"/></Shape>
-	    <String CONTENT="est nichil. Siue uisibile quidẽ: siue intelligiˡͤ" HPOS="2906.0" VPOS="1520.0" WIDTH="606.0" HEIGHT="40.0"/>
+	    <String CONTENT="est nichil. Siue uisibile quidẽ: siue intelligiˡᵉ" HPOS="2906.0" VPOS="1520.0" WIDTH="606.0" HEIGHT="40.0"/>
           </TextLine>
 
           
@@ -2704,7 +2704,7 @@
           
           <TextLine ID="eSc_line_f1f31c18" TAGREFS="LT6203" BASELINE="3469 1949 3523 1949" HPOS="3467" VPOS="1918" WIDTH="55" HEIGHT="53">
             <Shape><Polygon POINTS="3491 1918 3488 1918 3467 1945 3467 1947 3467 1966 3520 1971 3522 1947 3520 1918 3515 1918 3515 1947"/></Shape>
-	    <String CONTENT="Qͥa" HPOS="3467" VPOS="1918" WIDTH="55" HEIGHT="53"/>
+	    <String CONTENT="Qⁱa" HPOS="3467" VPOS="1918" WIDTH="55" HEIGHT="53"/>
           </TextLine>
 
           
@@ -2819,7 +2819,7 @@
           
           <TextLine ID="eSc_line_3cdb1531" TAGREFS="LT6203" BASELINE="2792 1232 2896 1234" HPOS="2788" VPOS="1224" WIDTH="110" HEIGHT="23">
             <Shape><Polygon POINTS="2788 1247 2891 1247 2893 1232 2898 1224 2791 1228 2790 1230"/></Shape>
-	    <String CONTENT="euãgeͣ. aliũ" HPOS="2788" VPOS="1224" WIDTH="110" HEIGHT="23"/>
+	    <String CONTENT="euãgeᵃ. aliũ" HPOS="2788" VPOS="1224" WIDTH="110" HEIGHT="23"/>
           </TextLine>
 
           
@@ -2892,7 +2892,7 @@
           
           <TextLine ID="eSc_line_6ce7360f" TAGREFS="LT6203" BASELINE="2798 2057 2909 2060" HPOS="2795" VPOS="2016" WIDTH="113" HEIGHT="53">
             <Shape><Polygon POINTS="2797 2055 2795 2069 2905 2064 2908 2057 2905 2019 2797 2016 2797 2055"/></Shape>
-	    <String CONTENT="Ne trepidaͦ" HPOS="2795" VPOS="2016" WIDTH="113" HEIGHT="53"/>
+	    <String CONTENT="Ne trepidaᵒ" HPOS="2795" VPOS="2016" WIDTH="113" HEIGHT="53"/>
           </TextLine>
 
           
@@ -2939,7 +2939,7 @@
           
           <TextLine ID="line_239" TAGREFS="LT6927" BASELINE="3496 251 3641 244" HPOS="3493" VPOS="175" WIDTH="148" HEIGHT="119">
             <Shape><Polygon POINTS="3496 251 3496 276 3544 276 3550 281 3563 292 3563 294 3564 294 3566 294 3568 294 3641 287 3641 244 3633 175 3595 190 3493 182 3496 251"/></Shape>
-	    <String CONTENT="Foͦ .uii." HPOS="3493" VPOS="175" WIDTH="148" HEIGHT="119"/>
+	    <String CONTENT="Foᵒ .uii." HPOS="3493" VPOS="175" WIDTH="148" HEIGHT="119"/>
           </TextLine>
 
           
@@ -2977,7 +2977,7 @@
           
           <TextLine ID="eSc_line_ab9a48fd" TAGREFS="LT6203" BASELINE="3526 841 3753 839" HPOS="3522" VPOS="786" WIDTH="247" HEIGHT="65">
             <Shape><Polygon POINTS="3526 851 3608 846 3627 850 3675 850 3704 847 3745 851 3752 837 3769 805 3700 801 3640 791 3608 786 3606 786 3522 798 3524 839"/></Shape>
-	    <String CONTENT="Qͥdquid ẽ siue ĩ substãͣ." HPOS="3522" VPOS="786" WIDTH="247" HEIGHT="65"/>
+	    <String CONTENT="Qͥdquid ẽ siue ĩ substãᵃ." HPOS="3522" VPOS="786" WIDTH="247" HEIGHT="65"/>
           </TextLine>
 
           

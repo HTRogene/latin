@@ -29,14 +29,14 @@
           
           <TextLine ID="eSc_line_c20c6948" TAGREFS="LT6148" BASELINE="238 524 606 519" HPOS="233" VPOS="476" WIDTH="372" HEIGHT="69">
             <Shape><Polygon POINTS="382 481 357 481 352 481 325 481 307 483 282 483 258 483 233 483 235 523 235 545 603 525 605 518 595 476 387 478 382 481"/></Shape>
-	    <String CONTENT="scriptae sꝑ ⟦⟧" HPOS="233" VPOS="476" WIDTH="372" HEIGHT="69"/>
+	    <String CONTENT="scriptae sꝑ ⟦:::⟧" HPOS="233" VPOS="476" WIDTH="372" HEIGHT="69"/>
           </TextLine>
 
           
           
           <TextLine ID="line_24" TAGREFS="LT6148" BASELINE="234 577 626 568" HPOS="230" VPOS="510" WIDTH="433" HEIGHT="179">
             <Shape><Polygon POINTS="587 511 553 520 528 520 503 520 479 520 454 520 429 520 404 523 379 523 354 523 337 523 230 525 233 575 233 689 357 689 357 686 359 686 362 686 362 684 369 679 441 612 531 612 602 570 605 572 663 533 603 510 603 520"/></Shape>
-	    <String CONTENT="eõ digno ⟦⟧ supra." HPOS="230" VPOS="510" WIDTH="433" HEIGHT="179"/>
+	    <String CONTENT="eõ digno ⟦:::⟧ supra." HPOS="230" VPOS="510" WIDTH="433" HEIGHT="179"/>
           </TextLine>
 
           

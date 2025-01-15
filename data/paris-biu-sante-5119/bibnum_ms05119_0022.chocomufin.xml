@@ -85,7 +85,7 @@
           
           <TextLine ID="eSc_line_4344af08" TAGREFS="LT6166" BASELINE="1883 967 1935 969" HPOS="1877" VPOS="934" WIDTH="55" HEIGHT="47">
             <Shape><Polygon POINTS="1908 934 1880 934 1880 964 1877 981 1930 978 1932 967 1930 934 1908 934"/></Shape>
-	    <String CONTENT="⁜" HPOS="1877" VPOS="934" WIDTH="55" HEIGHT="47"/>
+	    <String CONTENT="‸" HPOS="1877" VPOS="934" WIDTH="55" HEIGHT="47"/>
           </TextLine>
 
           
@@ -127,7 +127,7 @@
           
           <TextLine ID="line_12" TAGREFS="LT6166" BASELINE="805 1503 2087 1499" HPOS="799" VPOS="1425" WIDTH="1285" HEIGHT="115">
             <Shape><Polygon POINTS="802 1502 802 1521 907 1538 909 1538 912 1538 954 1521 959 1521 1340 1521 1356 1535 1356 1538 1359 1538 1362 1538 1364 1540 1439 1540 1439 1538 1602 1524 1811 1535 1814 1535 1817 1535 1875 1521 1988 1535 1990 1535 2081 1516 2084 1496 2070 1425 2046 1441 1422 1441 799 1430 802 1502"/></Shape>
-	    <String CONTENT="difficilis ualde ex qua accidit niͥ egriᵈͦ." HPOS="799" VPOS="1425" WIDTH="1285" HEIGHT="115"/>
+	    <String CONTENT="difficilis ualde ex qua accidit niͥ egriᵈᵒ." HPOS="799" VPOS="1425" WIDTH="1285" HEIGHT="115"/>
           </TextLine>
 
           
@@ -183,7 +183,7 @@
           
           <TextLine ID="line_20" TAGREFS="LT6166" BASELINE="799 2084 1724 2082 2094 2071" HPOS="794" VPOS="2006" WIDTH="1298" HEIGHT="108">
             <Shape><Polygon POINTS="796 2081 796 2106 2090 2114 2092 2070 2084 2006 1458 2020 794 2009 796 2081"/></Shape>
-	    <String CONTENT="Puer et inceperã studere ĩ arte mediⁿͤ." HPOS="794" VPOS="2006" WIDTH="1298" HEIGHT="108"/>
+	    <String CONTENT="Puer et inceperã studere ĩ arte mediⁿᵉ." HPOS="794" VPOS="2006" WIDTH="1298" HEIGHT="108"/>
           </TextLine>
 
           
@@ -230,7 +230,7 @@
           
           <TextLine ID="eSc_line_fe612f9b" TAGREFS="LT6166" BASELINE="431 980 494 976" HPOS="427" VPOS="951" WIDTH="66" HEIGHT="44">
             <Shape><Polygon POINTS="482 951 454 951 427 951 430 978 430 995 493 984 493 975 485 951 482 951"/></Shape>
-	    <String CONTENT="⁜" HPOS="427" VPOS="951" WIDTH="66" HEIGHT="44"/>
+	    <String CONTENT="‸" HPOS="427" VPOS="951" WIDTH="66" HEIGHT="44"/>
           </TextLine>
 
           

@@ -64,7 +64,7 @@
           
           <TextLine ID="line_9" TAGREFS="LT6927" BASELINE="775 880 2105 898" HPOS="770" VPOS="816" WIDTH="1332" HEIGHT="132">
             <Shape><Polygon POINTS="773 878 770 899 792 915 795 915 797 915 800 915 803 915 870 899 1048 899 1148 942 1150 942 1153 945 1258 945 1258 942 1261 942 1264 942 1299 921 1353 945 1355 945 1358 948 1477 948 1477 945 1479 945 1552 913 1655 934 1657 934 1660 934 1703 913 1849 934 1851 934 1948 915 2021 934 2024 934 2026 934 2029 934 2099 913 2102 896 2099 821 1916 832 1762 818 1722 816 773 816 773 878"/></Shape>
-	    <String CONTENT="cõẜuacõe saĩtatis et p̾ẜuaⁿͤ. ab egͥtuⁿͤ." HPOS="770" VPOS="816" WIDTH="1332" HEIGHT="132"/>
+	    <String CONTENT="cõẜuacõe saĩtatis et p̾ẜuaⁿᵉ. ab egͥtuⁿᵉ." HPOS="770" VPOS="816" WIDTH="1332" HEIGHT="132"/>
           </TextLine>
 
           
@@ -244,7 +244,7 @@
           
           <TextLine ID="eSc_line_33fdc173" TAGREFS="LT6166" BASELINE="330 2375 762 2385" HPOS="326" VPOS="2332" WIDTH="434" HEIGHT="83">
             <Shape><Polygon POINTS="328 2372 326 2405 754 2415 760 2383 754 2332 328 2332 328 2372"/></Shape>
-	    <String CONTENT="bit auicẽna uᵗͦ. caũ" HPOS="326" VPOS="2332" WIDTH="434" HEIGHT="83"/>
+	    <String CONTENT="bit auicẽna uᵗᵒ. caũ" HPOS="326" VPOS="2332" WIDTH="434" HEIGHT="83"/>
           </TextLine>
 
           

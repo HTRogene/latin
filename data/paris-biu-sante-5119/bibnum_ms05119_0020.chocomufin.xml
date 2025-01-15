@@ -50,7 +50,7 @@
           
           <TextLine ID="line_4" TAGREFS="LT6166" BASELINE="774 766 2049 755" HPOS="770" VPOS="692" WIDTH="1276" HEIGHT="111">
             <Shape><Polygon POINTS="773 764 773 795 1070 803 1073 803 1208 795 1433 784 1461 795 1466 798 1469 798 1472 801 1724 801 1724 798 1727 798 1730 798 1730 795 1757 781 2040 795 2046 753 2037 692 770 692 773 764"/></Shape>
-	    <String CONTENT="in stoᶜͦ. Preter fabas quib nichil pro" HPOS="770" VPOS="692" WIDTH="1276" HEIGHT="111"/>
+	    <String CONTENT="in stoᶜᵒ. Preter fabas quib nichil pro" HPOS="770" VPOS="692" WIDTH="1276" HEIGHT="111"/>
           </TextLine>
 
           
@@ -85,7 +85,7 @@
           
           <TextLine ID="eSc_line_78598be2" TAGREFS="LT6928" BASELINE="1816 1027 1901 1027" HPOS="1813" VPOS="1003" WIDTH="86" HEIGHT="33">
             <Shape><Polygon POINTS="1896 1003 1868 1003 1841 1003 1813 1003 1813 1025 1813 1036 1899 1036 1899 1025 1899 1003 1896 1003"/></Shape>
-	    <String CONTENT="⁜" HPOS="1813" VPOS="1003" WIDTH="86" HEIGHT="33"/>
+	    <String CONTENT="‸" HPOS="1813" VPOS="1003" WIDTH="86" HEIGHT="33"/>
           </TextLine>
 
           
@@ -99,7 +99,7 @@
           
           <TextLine ID="line_10" TAGREFS="LT6166" BASELINE="810 1165 2070 1153" HPOS="806" VPOS="1089" WIDTH="1262" HEIGHT="102">
             <Shape><Polygon POINTS="809 1164 809 1189 2007 1191 2010 1191 2013 1191 2068 1172 2068 1150 2060 1089 1527 1103 1317 1092 1278 1092 1275 1092 1264 1092 1206 1105 1095 1094 1064 1092 1061 1092 1059 1092 1050 1094 1017 1108 806 1097 809 1164"/></Shape>
-	    <String CONTENT="et yrnigi in mane ieunio stoᶜͦ. stabit" HPOS="806" VPOS="1089" WIDTH="1262" HEIGHT="102"/>
+	    <String CONTENT="et yrnigi in mane ieunio stoᶜᵒ. stabit" HPOS="806" VPOS="1089" WIDTH="1262" HEIGHT="102"/>
           </TextLine>
 
           
@@ -223,7 +223,7 @@
           
           <TextLine ID="eSc_line_211126cc" TAGREFS="LT6166" BASELINE="294 1078 346 1074" HPOS="291" VPOS="1036" WIDTH="52" HEIGHT="47">
             <Shape><Polygon POINTS="318 1036 291 1036 293 1075 293 1083 343 1083 343 1072 335 1036 318 1036"/></Shape>
-	    <String CONTENT="⁜" HPOS="291" VPOS="1036" WIDTH="52" HEIGHT="47"/>
+	    <String CONTENT="‸" HPOS="291" VPOS="1036" WIDTH="52" HEIGHT="47"/>
           </TextLine>
 
           

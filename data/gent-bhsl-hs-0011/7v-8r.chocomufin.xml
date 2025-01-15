@@ -29,7 +29,7 @@
           
           <TextLine ID="line_1" TAGREFS="LT6203" BASELINE="354 527 546 529" HPOS="350" VPOS="486" WIDTH="200" HEIGHT="84">
             <Shape><Polygon POINTS="496 506 472 506 448 506 424 503 400 503 376 503 352 503 352 525 350 570 350 538 550 540 544 527 539 486 530 486 520 506"/></Shape>
-	    <String CONTENT="et ĩ psalͦ. Omĩa in" HPOS="350" VPOS="486" WIDTH="200" HEIGHT="84"/>
+	    <String CONTENT="et ĩ psalᵒ. Omĩa in" HPOS="350" VPOS="486" WIDTH="200" HEIGHT="84"/>
           </TextLine>
 
           
@@ -476,7 +476,7 @@
           
           <TextLine ID="line_45" TAGREFS="LT6203" BASELINE="567 1518 1154 1522" HPOS="566.0" VPOS="1493.0" WIDTH="588.0" HEIGHT="45.0">
             <Shape><Polygon POINTS="567 1518 566 1531 1151 1538 1154 1522 1151 1493 567 1493 567 1518"/></Shape>
-	    <String CONTENT="ta ꝑ quam facta sunt omnia lux est et non qͦ" HPOS="566.0" VPOS="1493.0" WIDTH="588.0" HEIGHT="45.0"/>
+	    <String CONTENT="ta ꝑ quam facta sunt omnia lux est et non qᵒ" HPOS="566.0" VPOS="1493.0" WIDTH="588.0" HEIGHT="45.0"/>
           </TextLine>
 
           
@@ -490,7 +490,7 @@
           
           <TextLine ID="eSc_line_b26a41dd" TAGREFS="LT6927" BASELINE="1013 1548 1166 1553" HPOS="1009" VPOS="1513" WIDTH="156" HEIGHT="53">
             <Shape><Polygon POINTS="1108 1520 1084 1520 1060 1520 1036 1520 1012 1520 1012 1546 1009 1566 1137 1566 1153 1556 1163 1556 1165 1551 1163 1513 1132 1513 1132 1520"/></Shape>
-	    <String CONTENT="Theophiluᷤᷤ" HPOS="1009" VPOS="1513" WIDTH="156" HEIGHT="53"/>
+	    <String CONTENT="Theophiluˢ" HPOS="1009" VPOS="1513" WIDTH="156" HEIGHT="53"/>
           </TextLine>
 
           
@@ -965,7 +965,7 @@
           
           <TextLine ID="line_94" TAGREFS="LT6203" BASELINE="1280 1117 1877 1112" HPOS="1279.0" VPOS="1087.0" WIDTH="598.0" HEIGHT="49.0">
             <Shape><Polygon POINTS="1280 1117 1280 1136 1875 1127 1877 1112 1872 1087 1279 1096 1280 1117"/></Shape>
-	    <String CONTENT="lucet cũ ꝓpria fortitudine. ꝓprterea subdᵗ Et tenebͤ" HPOS="1279.0" VPOS="1087.0" WIDTH="598.0" HEIGHT="49.0"/>
+	    <String CONTENT="lucet cũ ꝓpria fortitudine. ꝓprterea subdᵗ Et tenebᵉ" HPOS="1279.0" VPOS="1087.0" WIDTH="598.0" HEIGHT="49.0"/>
           </TextLine>
 
           
@@ -1837,7 +1837,7 @@
           
           <TextLine ID="line_183" TAGREFS="LT6203" BASELINE="2172 1862 2775 1869" HPOS="2171" VPOS="1837" WIDTH="604" HEIGHT="42">
             <Shape><Polygon POINTS="2171 1873 2758 1879 2775 1869 2774 1843 2172 1837 2172 1862"/></Shape>
-	    <String CONTENT="enĩ nemo a seipso esse habet sic eciam a seipso ne" HPOS="2171" VPOS="1837" WIDTH="604" HEIGHT="42"/>
+	    <String CONTENT="enĩ nemo a seipso esse habet: sic eciam a seipso ne" HPOS="2171" VPOS="1837" WIDTH="604" HEIGHT="42"/>
           </TextLine>
 
           
@@ -1851,7 +1851,7 @@
           
           <TextLine ID="eSc_line_c87edc21" TAGREFS="LT6927" BASELINE="2674 1895 2779 1897" HPOS="2672" VPOS="1870" WIDTH="105" HEIGHT="43">
             <Shape><Polygon POINTS="2672 1894 2672 1913 2777 1913 2777 1894 2777 1870 2691 1870 2672 1889"/></Shape>
-	    <String CONTENT="Origeneᷤᷤ" HPOS="2672" VPOS="1870" WIDTH="105" HEIGHT="43"/>
+	    <String CONTENT="Origeneˢ" HPOS="2672" VPOS="1870" WIDTH="105" HEIGHT="43"/>
           </TextLine>
 
           
@@ -2543,7 +2543,7 @@
           
           <TextLine ID="line_254" TAGREFS="LT6203" BASELINE="2894 2073 3504 2075" HPOS="2892.0" VPOS="2046.0" WIDTH="612.0" HEIGHT="45.0">
             <Shape><Polygon POINTS="2894 2073 2892 2089 3501 2091 3504 2075 3501 2046 2894 2048 2894 2073"/></Shape>
-	    <String CONTENT="gii: illi aũt quomodo nascantur. subdit. ¶ Qͥ" HPOS="2892.0" VPOS="2046.0" WIDTH="612.0" HEIGHT="45.0"/>
+	    <String CONTENT="gii: illi aũt quomodo nascantur. subdit. ¶ Qⁱ" HPOS="2892.0" VPOS="2046.0" WIDTH="612.0" HEIGHT="45.0"/>
           </TextLine>
 
           
@@ -2689,7 +2689,7 @@
           
           <TextLine ID="line_196" TAGREFS="LT6927" BASELINE="3490 273 3655 268" HPOS="3487" VPOS="215" WIDTH="168" HEIGHT="83">
             <Shape><Polygon POINTS="3490 273 3492 298 3544 284 3652 284 3655 268 3652 215 3487 215 3490 273"/></Shape>
-	    <String CONTENT="Foͦ .uiii." HPOS="3487" VPOS="215" WIDTH="168" HEIGHT="83"/>
+	    <String CONTENT="Foᵒ .uiii." HPOS="3487" VPOS="215" WIDTH="168" HEIGHT="83"/>
           </TextLine>
 
           

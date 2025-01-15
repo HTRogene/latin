@@ -43,7 +43,7 @@
           
           <TextLine ID="line_3" TAGREFS="LT6149" BASELINE="825 711 2084 705" HPOS="822.0" VPOS="641.0" WIDTH="1262.0" HEIGHT="111.0">
             <Shape><Polygon POINTS="825 711 825 741 2081 752 2084 705 2078 644 822 641 825 711"/></Shape>
-	    <String CONTENT="respexi: &amp; uidi suꝑ ripã fluminiᷤᷤ bullientiᷤᷤ forna-" HPOS="822.0" VPOS="641.0" WIDTH="1262.0" HEIGHT="111.0"/>
+	    <String CONTENT="respexi: &amp; uidi suꝑ ripã fluminiˢ bullientiᷤ forna-" HPOS="822.0" VPOS="641.0" WIDTH="1262.0" HEIGHT="111.0"/>
           </TextLine>
 
           
@@ -57,7 +57,7 @@
           
           <TextLine ID="line_5" TAGREFS="LT6149" BASELINE="825 888 2036 894" HPOS="822.0" VPOS="822.0" WIDTH="1214.0" HEIGHT="116.0">
             <Shape><Polygon POINTS="825 888 822 919 1442 938 1445 938 2034 925 2036 894 2031 822 825 822 825 888"/></Shape>
-	    <String CONTENT="nib &amp; scorpionib &amp; serpentib diu̾si generiᷤᷤ." HPOS="822.0" VPOS="822.0" WIDTH="1214.0" HEIGHT="116.0"/>
+	    <String CONTENT="nib &amp; scorpionib &amp; serpentib diu̾si generiᷤ." HPOS="822.0" VPOS="822.0" WIDTH="1214.0" HEIGHT="116.0"/>
           </TextLine>
 
           
@@ -204,7 +204,7 @@
           
           <TextLine ID="line_26" TAGREFS="LT6149" BASELINE="814 2819 2053 2830" HPOS="811.0" VPOS="2755.0" WIDTH="1242.0" HEIGHT="120.0">
             <Shape><Polygon POINTS="814 2819 811 2858 836 2872 839 2872 841 2872 967 2861 1122 2875 1125 2875 2050 2866 2053 2830 2050 2775 1433 2755 1431 2755 814 2761 814 2819"/></Shape>
-	    <String CONTENT="nerib ignium. Et ualde tremens filo glomeriᷤᷤ" HPOS="811.0" VPOS="2755.0" WIDTH="1242.0" HEIGHT="120.0"/>
+	    <String CONTENT="nerib ignium. Et ualde tremens filo glomeriˢ" HPOS="811.0" VPOS="2755.0" WIDTH="1242.0" HEIGHT="120.0"/>
           </TextLine>
 
           
@@ -363,7 +363,7 @@
           
           <TextLine ID="line_48" TAGREFS="LT6149" BASELINE="2250 997 3404 1008" HPOS="2248.0" VPOS="919.0" WIDTH="1156.0" HEIGHT="131.0">
             <Shape><Polygon POINTS="2250 997 2248 1038 2714 1044 2717 1044 2753 1038 2792 1030 2826 1036 2864 1047 2867 1047 2870 1047 3037 1036 3059 1036 3076 1036 3248 1050 3251 1050 3401 1033 3404 1008 3401 936 2920 925 2917 925 2870 933 2837 938 2764 933 2634 922 2631 922 2564 933 2537 936 2509 933 2420 919 2417 919 2414 919 2389 933 2387 933 2250 933 2250 997"/></Shape>
-	    <String CONTENT="nib scĩ petri scĩq remigis exempti st̃ de istiᷤᷤ" HPOS="2248.0" VPOS="919.0" WIDTH="1156.0" HEIGHT="131.0"/>
+	    <String CONTENT="nib scĩ petri scĩq remigis exempti st̃ de istiˢ" HPOS="2248.0" VPOS="919.0" WIDTH="1156.0" HEIGHT="131.0"/>
           </TextLine>
 
           

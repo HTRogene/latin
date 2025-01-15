@@ -71,7 +71,7 @@
           
           <TextLine ID="line_7" TAGREFS="LT6149" BASELINE="350 1111 1527 1111" HPOS="350.0" VPOS="1050.0" WIDTH="1177.0" HEIGHT="108.0">
             <Shape><Polygon POINTS="350 1111 350 1158 1527 1152 1527 1111 1527 1055 350 1050 350 1111"/></Shape>
-	    <String CONTENT="sum glomuᷤᷤ fulgiđũ sicut iubar solis coadu-" HPOS="350.0" VPOS="1050.0" WIDTH="1177.0" HEIGHT="108.0"/>
+	    <String CONTENT="sum glomuˢ fulgiđũ sicut iubar solis coadu-" HPOS="350.0" VPOS="1050.0" WIDTH="1177.0" HEIGHT="108.0"/>
           </TextLine>
 
           
@@ -601,7 +601,7 @@
           
           <TextLine ID="line_78" TAGREFS="LT6149" BASELINE="1713 3777 2944 3800" HPOS="1711.0" VPOS="3719.0" WIDTH="1233.0" HEIGHT="108.0">
             <Shape><Polygon POINTS="1713 3777 1711 3811 2939 3827 2944 3800 2941 3736 1713 3719 1713 3777"/></Shape>
-	    <String CONTENT="berauit: uͥ sacerdotis xp̃i wandregisili cũ suiᷤᷤ" HPOS="1711.0" VPOS="3719.0" WIDTH="1233.0" HEIGHT="108.0"/>
+	    <String CONTENT="berauit: uͥ sacerdotis xp̃i wandregisili cũ suiˢ" HPOS="1711.0" VPOS="3719.0" WIDTH="1233.0" HEIGHT="108.0"/>
           </TextLine>
 
           

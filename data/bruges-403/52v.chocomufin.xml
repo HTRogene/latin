@@ -57,7 +57,7 @@
           
           <TextLine ID="line_5" TAGREFS="LT6144" BASELINE="555 762 1453 762" HPOS="555" VPOS="717" WIDTH="898" HEIGHT="71">
             <Shape><Polygon POINTS="555 762 555 788 1453 788 1453 762 1451 717 555 717 555 762"/></Shape>
-	    <String CONTENT="tione p̾dictus antistes pascariꝰ statuit. ut poᷤᷤt" HPOS="555" VPOS="717" WIDTH="898" HEIGHT="71"/>
+	    <String CONTENT="tione p̾dictus antistes pascariꝰ statuit. ut poˢt" HPOS="555" VPOS="717" WIDTH="898" HEIGHT="71"/>
           </TextLine>
 
           
@@ -239,7 +239,7 @@
           
           <TextLine ID="line_31" TAGREFS="LT6144" BASELINE="575 2451 1458 2442" HPOS="573" VPOS="2404" WIDTH="885" HEIGHT="71">
             <Shape><Polygon POINTS="575 2451 575 2475 1456 2466 1458 2442 1451 2404 573 2408 575 2451"/></Shape>
-	    <String CONTENT="uina utiq ꝓuidente uiᷤᷤsione in p̾fata urbe" HPOS="573" VPOS="2404" WIDTH="885" HEIGHT="71"/>
+	    <String CONTENT="uina utiq ꝓuidente uiᷤsione in p̾fata urbe" HPOS="573" VPOS="2404" WIDTH="885" HEIGHT="71"/>
           </TextLine>
 
           
@@ -288,7 +288,7 @@
           
           <TextLine ID="line_38" TAGREFS="LT6144" BASELINE="584 2908 1456 2900" HPOS="582" VPOS="2851" WIDTH="874" HEIGHT="86">
             <Shape><Polygon POINTS="584 2908 584 2928 1015 2937 1018 2937 1456 2922 1456 2900 1449 2851 582 2868 584 2908"/></Shape>
-	    <String CONTENT="sacerdotii sui condigno directus: humilitatiᷤᷤ" HPOS="582" VPOS="2851" WIDTH="874" HEIGHT="86"/>
+	    <String CONTENT="sacerdotii sui condigno directus: humilitatiᷤ" HPOS="582" VPOS="2851" WIDTH="874" HEIGHT="86"/>
           </TextLine>
 
           
@@ -447,7 +447,7 @@
           
           <TextLine ID="line_60" TAGREFS="LT6144" BASELINE="1549 1475 2429 1475" HPOS="1549" VPOS="1440" WIDTH="880" HEIGHT="62">
             <Shape><Polygon POINTS="1549 1475 1549 1502 2429 1502 2429 1475 2429 1440 1549 1440 1549 1475"/></Shape>
-	    <String CONTENT="tatis obseqoͥ: elemosinaꝵ𐞥: largitionib abun" HPOS="1549" VPOS="1440" WIDTH="880" HEIGHT="62"/>
+	    <String CONTENT="tatis obseqoͥ: elemosinaꝵ𐞥 largitionib abun" HPOS="1549" VPOS="1440" WIDTH="880" HEIGHT="62"/>
           </TextLine>
 
           

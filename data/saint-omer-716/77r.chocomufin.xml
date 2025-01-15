@@ -134,7 +134,7 @@
           
           <TextLine ID="line_16" TAGREFS="LT6149" BASELINE="336 1922 1566 1897" HPOS="333.0" VPOS="1844.0" WIDTH="1233.0" HEIGHT="128.0">
             <Shape><Polygon POINTS="336 1922 336 1972 508 1966 511 1966 513 1966 513 1963 527 1952 950 1952 1380 1952 1380 1950 1566 1927 1566 1897 1561 1844 750 1844 747 1844 744 1844 741 1844 719 1858 369 1852 366 1852 363 1852 333 1863 336 1922"/></Shape>
-	    <String CONTENT="filii eiꝰ hludouicꝰ ce karlomannꝰ regnũ eiꝰ int̾ se diᷤᷤ-" HPOS="333.0" VPOS="1844.0" WIDTH="1233.0" HEIGHT="128.0"/>
+	    <String CONTENT="filii eiꝰ hludouicꝰ ce karlomannꝰ regnũ eiꝰ int̾ se diᷤ-" HPOS="333.0" VPOS="1844.0" WIDTH="1233.0" HEIGHT="128.0"/>
           </TextLine>
 
           
@@ -176,7 +176,7 @@
           
           <TextLine ID="line_21" TAGREFS="LT6149" BASELINE="344 2380 1480 2369" HPOS="341.0" VPOS="2300.0" WIDTH="1139.0" HEIGHT="122.0">
             <Shape><Polygon POINTS="344 2380 344 2422 1477 2400 1480 2369 1475 2316 1219 2300 1216 2300 1213 2300 1211 2300 1183 2316 925 2302 922 2302 919 2302 916 2302 897 2322 727 2322 625 2305 622 2305 619 2305 566 2322 377 2308 375 2308 372 2308 341 2322 344 2380"/></Shape>
-	    <String CONTENT="qͥndecmna. Regnauit anno ᷤᷤ duos. m̃ses tres." HPOS="341.0" VPOS="2300.0" WIDTH="1139.0" HEIGHT="122.0"/>
+	    <String CONTENT="qͥndecmna. Regnauit anno ᷤ duos. m̃ses tres." HPOS="341.0" VPOS="2300.0" WIDTH="1139.0" HEIGHT="122.0"/>
           </TextLine>
 
           

@@ -106,7 +106,7 @@
           
           <TextLine ID="eSc_line_69ae2834" TAGREFS="LT6384" BASELINE="85 566 590 561" HPOS="81" VPOS="533" WIDTH="507" HEIGHT="54">
             <Shape><Polygon POINTS="477 547 456 547 435 547 414 547 400 535 81 537 83 564 83 587 585 583 588 560 581 533 490 533 477 547"/></Shape>
-	    <String CONTENT="bił sit ⁊ młcens aures. porro: a coᷤᷤmographie moysi ĩ" HPOS="81" VPOS="533" WIDTH="507" HEIGHT="54"/>
+	    <String CONTENT="bił sit ⁊ młcens aures. porro: a coᷤmographie moysi ĩ" HPOS="81" VPOS="533" WIDTH="507" HEIGHT="54"/>
           </TextLine>
 
           
@@ -162,7 +162,7 @@
           
           <TextLine ID="eSc_line_8c2c0c65" TAGREFS="LT6384" BASELINE="69 768 597 768" HPOS="68" VPOS="735" WIDTH="528" HEIGHT="54">
             <Shape><Polygon POINTS="68 766 68 783 594 789 596 766 596 739 68 735 68 766"/></Shape>
-	    <String CONTENT="Uerũptñ : q stilo rudi opꝰ ẽ lima: uob̵ pat̃ inclite lim" HPOS="68" VPOS="735" WIDTH="528" HEIGHT="54"/>
+	    <String CONTENT="Uerũptñ : q stilo rudi opꝰ ẽ lima: uob̶ pat̃ inclite lim" HPOS="68" VPOS="735" WIDTH="528" HEIGHT="54"/>
           </TextLine>
 
           
@@ -534,7 +534,7 @@
           
           <TextLine ID="eSc_line_139ed622" TAGREFS="LT6384" BASELINE="616 1620 885 1613" HPOS="613" VPOS="1581" WIDTH="271" HEIGHT="60">
             <Shape><Polygon POINTS="842 1581 821 1581 800 1581 779 1583 759 1583 738 1583 717 1583 696 1585 675 1585 654 1585 633 1585 631 1581 613 1581 615 1618 615 1641 884 1635 884 1612 880 1581 863 1581 842 1581"/></Shape>
-	    <String CONTENT="De .iiiiͦʳ. filiis ue. ⁊ de fili" HPOS="613" VPOS="1581" WIDTH="271" HEIGHT="60"/>
+	    <String CONTENT="De .iiiiᵒʳ. filiis ue. ⁊ de fili" HPOS="613" VPOS="1581" WIDTH="271" HEIGHT="60"/>
           </TextLine>
 
           
@@ -616,7 +616,7 @@
           
           <TextLine ID="eSc_line_730ff33c" TAGREFS="LT6384" BASELINE="45 985 314 979" HPOS="41" VPOS="943" WIDTH="271" HEIGHT="63">
             <Shape><Polygon POINTS="291 950 271 950 250 950 229 950 208 950 187 950 166 950 145 950 125 950 104 950 83 950 79 945 41 945 43 983 43 1006 300 995 310 979 312 977 306 943 291 943 291 950"/></Shape>
-	    <String CONTENT="De cͤatõne empyrei celi. ⁊ iiiiͦʳ." HPOS="41" VPOS="943" WIDTH="271" HEIGHT="63"/>
+	    <String CONTENT="De cͤatõne empyrei celi. ⁊ iiiiᵒʳ." HPOS="41" VPOS="943" WIDTH="271" HEIGHT="63"/>
           </TextLine>
 
           
@@ -644,7 +644,7 @@
           
           <TextLine ID="eSc_line_3a6b44cc" TAGREFS="LT6384" BASELINE="34 1111 216 1112" HPOS="33" VPOS="1081" WIDTH="181" HEIGHT="48">
             <Shape><Polygon POINTS="33 1110 33 1127 212 1129 214 1110 214 1083 33 1081 33 1110"/></Shape>
-	    <String CONTENT="De oꝑe scd̵e diei." HPOS="33" VPOS="1081" WIDTH="181" HEIGHT="48"/>
+	    <String CONTENT="De oꝑe scd̶e diei." HPOS="33" VPOS="1081" WIDTH="181" HEIGHT="48"/>
           </TextLine>
 
           
@@ -686,7 +686,7 @@
           
           <TextLine ID="eSc_line_57ba0624" TAGREFS="LT6384" BASELINE="48 1317 291 1310" HPOS="45" VPOS="1260" WIDTH="244" HEIGHT="75">
             <Shape><Polygon POINTS="212 1277 202 1277 198 1281 45 1281 47 1316 47 1335 289 1335 289 1308 283 1260 218 1262 216 1262 214 1262 214 1264 212 1264 212 1277"/></Shape>
-	    <String CONTENT="Dde reqͥe sab̵b̵i ⁊ scĩficõne." HPOS="45" VPOS="1260" WIDTH="244" HEIGHT="75"/>
+	    <String CONTENT="Dde reqͥe sab̶b̶i ⁊ scĩficõne." HPOS="45" VPOS="1260" WIDTH="244" HEIGHT="75"/>
           </TextLine>
 
           
@@ -1109,7 +1109,7 @@
           
           <TextLine ID="eSc_line_0fd3d4b0" TAGREFS="LT6384" BASELINE="914 665 1192 658" HPOS="911" VPOS="627" WIDTH="279" HEIGHT="58">
             <Shape><Polygon POINTS="913 664 913 685 1190 672 1190 656 1184 627 911 633 913 664"/></Shape>
-	    <String CONTENT="uod iudas genuit phareᷤᷤ" HPOS="911" VPOS="627" WIDTH="279" HEIGHT="58"/>
+	    <String CONTENT="uod iudas genuit phareˢ" HPOS="911" VPOS="627" WIDTH="279" HEIGHT="58"/>
           </TextLine>
 
           

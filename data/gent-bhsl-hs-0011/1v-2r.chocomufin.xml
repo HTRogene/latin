@@ -153,7 +153,7 @@
           
           <TextLine ID="line_24" TAGREFS="LT6203" BASELINE="570 840 1185 836" HPOS="569" VPOS="808" WIDTH="616" HEIGHT="48">
             <Shape><Polygon POINTS="570 840 570 856 1183 846 1185 836 1180 808 569 816 570 840"/></Shape>
-	    <String CONTENT="ta summatum notata ab auctore de uirtutibuᷤᷤ" HPOS="569" VPOS="808" WIDTH="616" HEIGHT="48"/>
+	    <String CONTENT="ta summatum notata ab auctore de uirtutibuˢ" HPOS="569" VPOS="808" WIDTH="616" HEIGHT="48"/>
           </TextLine>
 
           
@@ -1197,7 +1197,7 @@
           
           <TextLine ID="eSc_line_6d15f804" TAGREFS="LT6203" BASELINE="1199 1738 1319 1740" HPOS="1196" VPOS="1716" WIDTH="122" HEIGHT="33">
             <Shape><Polygon POINTS="1307 1720 1285 1720 1263 1720 1241 1718 1220 1718 1198 1718 1198 1736 1196 1747 1206 1749 1315 1747 1318 1738 1318 1716 1307 1720"/></Shape>
-	    <String CONTENT="ᷤᷤᷠᷤᷤᷤᷤsunamitis ut" HPOS="1196" VPOS="1716" WIDTH="122" HEIGHT="33"/>
+	    <String CONTENT="ᷤᷠᷤᷤsunamitis ut" HPOS="1196" VPOS="1716" WIDTH="122" HEIGHT="33"/>
           </TextLine>
 
           
@@ -2355,7 +2355,7 @@
           
           <TextLine ID="line_198" TAGREFS="LT6927" BASELINE="3530 248 3670 238" HPOS="3525" VPOS="174" WIDTH="146" HEIGHT="101">
             <Shape><Polygon POINTS="3532 275 3671 274 3670 238 3664 197 3633 198 3628 196 3594 174 3593 174 3591 174 3590 174 3542 178 3541 178 3539 178 3525 188 3530 248"/></Shape>
-	    <String CONTENT="Foͦ. ii." HPOS="3525" VPOS="174" WIDTH="146" HEIGHT="101"/>
+	    <String CONTENT="Foᵒ. ii." HPOS="3525" VPOS="174" WIDTH="146" HEIGHT="101"/>
           </TextLine>
 
           
@@ -2374,7 +2374,7 @@
           
           <TextLine ID="line_252" TAGREFS="LT6203" BASELINE="3561 556 3758 551" HPOS="3559" VPOS="536" WIDTH="206" HEIGHT="47">
             <Shape><Polygon POINTS="3559 583 3596 577 3603 572 3625 572 3638 572 3688 566 3751 575 3755 548 3765 536 3562 538 3559 555"/></Shape>
-	    <String CONTENT="pũcta significat qdͦ" HPOS="3559" VPOS="536" WIDTH="206" HEIGHT="47"/>
+	    <String CONTENT="pũcta significat qdᵒ" HPOS="3559" VPOS="536" WIDTH="206" HEIGHT="47"/>
           </TextLine>
 
           

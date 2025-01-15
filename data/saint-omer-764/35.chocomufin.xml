@@ -22,7 +22,7 @@
           
           <TextLine ID="eSc_line_d66ebb4f" TAGREFS="LT6148" BASELINE="393 730 568 720" HPOS="387" VPOS="634" WIDTH="178" HEIGHT="139">
             <Shape><Polygon POINTS="392 744 431 744 434 744 471 773 474 773 476 773 479 773 565 751 565 719 558 664 387 634 392 729"/></Shape>
-	    <String CONTENT="⁜t tim" HPOS="387" VPOS="634" WIDTH="178" HEIGHT="139"/>
+	    <String CONTENT="‸t tim" HPOS="387" VPOS="634" WIDTH="178" HEIGHT="139"/>
           </TextLine>
 
           
@@ -55,7 +55,7 @@
           
           <TextLine ID="eSc_line_4ed0526a" TAGREFS="LT6148" BASELINE="1752 624 1804 623" HPOS="1749" VPOS="592" WIDTH="52" HEIGHT="57">
             <Shape><Polygon POINTS="1749 622 1749 649 1801 639 1801 622 1801 592 1749 592 1749 622"/></Shape>
-	    <String CONTENT="⁜" HPOS="1749" VPOS="592" WIDTH="52" HEIGHT="57"/>
+	    <String CONTENT="‸" HPOS="1749" VPOS="592" WIDTH="52" HEIGHT="57"/>
           </TextLine>
 
           

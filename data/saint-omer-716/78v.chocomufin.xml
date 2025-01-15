@@ -8,7 +8,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT14587" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT14588" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="BT14587" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT14588" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT6149" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -513,8 +513,8 @@
 
           
           
-          <TextLine ID="eSc_line_4ae6d0f0" BASELINE="3461 2302 3562 2300" HPOS="3460" VPOS="2216" WIDTH="101" HEIGHT="121">
-            <Shape><Polygon POINTS="3460 2300 3460 2337 3561 2325 3561 2300 3561 2237 3460 2216 3460 2300"/></Shape>
+          <TextLine ID="eSc_line_4ae6d0f0" TAGREFS="LT6927" BASELINE="3461 2302 3562 2300" HPOS="3460" VPOS="2216" WIDTH="101" HEIGHT="121">
+            <Shape><Polygon POINTS="3460 2337 3561 2325 3561 2300 3561 2237 3460 2216 3460 2300"/></Shape>
 	    <String CONTENT="¶to:" HPOS="3460" VPOS="2216" WIDTH="101" HEIGHT="121"/>
           </TextLine>
 

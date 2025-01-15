@@ -496,7 +496,7 @@
           
           <TextLine ID="line_66" TAGREFS="LT6368" BASELINE="707 1156 1199 1151" HPOS="706.0" VPOS="1122.0" WIDTH="493.0" HEIGHT="54.0">
             <Shape><Polygon POINTS="707 1156 707 1176 1197 1168 1199 1151 1196 1130 1074 1122 1072 1122 1024 1130 838 1125 836 1125 835 1125 813 1134 706 1134 707 1156"/></Shape>
-	    <String CONTENT="b ꝙ maxĩe faciũt p̃lati uł fastidiũt m̵" HPOS="706.0" VPOS="1122.0" WIDTH="493.0" HEIGHT="54.0"/>
+	    <String CONTENT="b ꝙ maxĩe faciũt p̃lati uł fastidiũt m̶" HPOS="706.0" VPOS="1122.0" WIDTH="493.0" HEIGHT="54.0"/>
           </TextLine>
 
           
