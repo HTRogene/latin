@@ -1,205 +1,72 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: HTRogène Medieval Latin Manuscripts
+url: https://github.com/HTRogene/latin
 authors:
-- name: Anthony
-  orcid: 0000-0003-4715-5184
-  roles:
-  - transcriber
-  surname: Glaise
-- name: Thibault
-  orcid: 0000-0003-1852-9204
-  roles:
-  - project-manager
-  - quality-control
-  surname: Clérice
-- name: Alix
-  orcid: 0000-0002-0136-4434
-  roles:
-  - project-manager
-  surname: Chagué
-- name: Federico
-  orcid: 0000-0002-7810-7735
-  roles:
-  - project-manager
-  surname: Boschetti
-- name: Franz
-  orcid: 0000-0002-2162-5531
-  roles:
-  - project-manager
-  surname: Fischer
-automatically-aligned: false
-characters:
-  members:
-  - i
-  - e
-  - a
-  - t
-  - u
-  - s
-  - n
-  - o
-  - ̃
-  - r
-  - c
-  - d
-  - m
-  - l
-  - .
-  - p
-  - b
-  - q
-  - g
-  - f
-  - h
-  - I
-  - ̾
-  - x
-  - ⁊
-  - ꝰ
-  - E
-  - ꝑ
-  - 
-  - ł
-  - U
-  - S
-  - R
-  - A
-  - ͥ
-  - C
-  - ':'
-  - T
-  - ᷑
-  - D
-  - N
-  - ꝙ
-  - P
-  - ꝵ
-  - ͣ
-  - y
-  - M
-  - O
-  - ꝓ
-  - '&'
-  - L
-  - ̧
-  - G
-  - ꝯ
-  - Q
-  - ͦ
-  - ħ
-  - B
-  - X
-  - H
-  - ¶
-  - '-'
-  - ͤ
-  - ⟦
-  - ⟧
-  - ͭ
-  - ꝭ
-  - ᵒ
-  - F
-  - ẜ
-  - ᵗ
-  - /
-  - ̇
-  - ˢ
-  - ⁱ
-  - ᵃ
-  - ᶜ
-  - z
-  - ᷤ
-  - đ
-  - ᵉ
-  - k
-  - ͬ
-  - ᵘ
-  - ͧ
-  - w
-  - ⁿ
-  - ÷
-  - ᵐ
-  - '2'
-  - ᵈ
-  - ͨ
-  - ‸
-  - '3'
-  - ʳ
-  - W
-  - '1'
-  - ̶
-  - ˡ
-  - '6'
-  - '0'
-  - ᷠ
-  - ͫ
-  - ˣ
-  - '4'
-  - Ꝙ
-  - '7'
-  - K
-  - '8'
-  - ꝗ
-  - ᷝ
-  - ͩ
-  - ᷮ
-  - Y
-  - '9'
-  - ᵇ
-  - '#'
-  - +
-  - ⁰
-  - '5'
-  - ͪ
-  - ͯ
-  - ᷚ
-  -  
-  - 𐞥
-  - ᷫ
-  - ᷨ
-  - Z
-  - ⁴
-  - ⁹
-  mode: NFD
+  - name: François
+    roles:
+    - transcriber
+    surname: Hermand
+  - name: Marceau
+    roles:
+    - transcriber
+    surname: Brootcorne
+  - name: Malamatenia
+    surname: Vlachou-Efstathiou
+    orcid: 0000-0002-9397-356X
+    roles:
+      - project-manager
+      - quality-control
+  - name: Federico
+    orcid: 0000-0002-7810-7735
+    roles:
+    - project-manager
+    surname: Boschetti
+  - name: Franz
+    roles:
+    - project-manager
+    surname: Fischer
+  - name: Alix
+    orcid: 0000-0002-0136-4434
+    roles:
+    - project-manager
+    surname: Chagué
+  - name: Thibault
+    surname: Clérice
+    orcid: 0000-0003-1852-9204
+    roles:
+      - project-manager
+      - quality-control
+institutions: []
 description: >-
-  Ground truth of Latin medieval manuscripts. Manuscripts vary in themes,
-  period, etc. Most manuscript have at most 10 columns transcribed.
-format: Alto-XML
+  HTRogène is an exploratory project funded by Biblissima+, aiming to develop
+  generic models for automatic transcription of medieval and early modern
+  manuscripts.  
+
+  This repository focuses on the Medieval Latin corpus, providing ground-truth
+  data for Handwritten Text Recognition (HTR) and layout segmentation.  
+
+  The dataset is designed to support the creation of robust and reliable HTR
+  models for Latin manuscripts.
+project-name: Biblissima+ HTRogène
+language:
+  - lat
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '601'
+  notAfter: '1600'
 hands:
   count: 1-per-folder
   precision: estimated
-institutions: []
-language:
-- lat
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-production-software: eScriptorium + Kraken
-project-name: HTRomance
-project-website: https://htromance-project.github.io
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-script:
-- iso: Latn
-script-type: only-manuscript
-time:
-  notAfter: '1499'
-  notBefore: '1100'
-title: HTRomance, Medieval Latin corpus of ground-truth for Handwritten Text Recognition
-  and Layout Segmentation
-transcription-guidelines: >2-
-
-  The transcription guidelines are described in a paper available on
-  [HAL](https://hal-enc.archives-ouvertes.fr/hal-03828353) and published at the
-  Journal for Open Humanities Data. It provides specific details about the
-  selection process, the transcription methods and choices, as well as details
-  about output (mainly the [Generic CREMMA Model for Medieval Manuscripts (Latin
-  and Old French)](https://zenodo.org/record/7234166#.Y7f69afMJhE) for
-  [Kraken](https://kraken.re))
-url: https://github.com/HTRomance-Project/medieval-latin
+format: Alto-XML
 volume:
-- count: 310106
-  metric: characters
-- count: 133
-  metric: files
-- count: 9755
-  metric: lines
-- count: 913
-  metric: regions
+  - metric: lines
+    count: 9755
+citation-file-link: https://github.com/HTRogene/italian/blob/main/CITATION.CFF
+
