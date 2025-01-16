@@ -1,0 +1,209 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>archives-de-l-etat-a-liege-t51-13.jpg</fileName>
+      <fileIdentifier>mets//mss-archives-de-l-etat-a-liege-t51-12-14.zip/archives-de-l-etat-a-liege-t51-13.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT14679" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/>
+    <OtherTag ID="LT6183" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1155" HEIGHT="3063" PHYSICAL_IMG_NR="1" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1155" HEIGHT="3063">
+        
+        <TextBlock HPOS="108" VPOS="88" WIDTH="880" HEIGHT="1256" ID="block_0" TAGREFS="BT14679">
+          <Shape><Polygon POINTS="108 88 988 88 988 1344 108 1344 108 88"/></Shape>
+          
+          
+          <TextLine ID="line_55" TAGREFS="LT6183" BASELINE="117 144 361 146 955 145" HPOS="112" VPOS="89" WIDTH="841" HEIGHT="79">
+            <Shape><Polygon POINTS="316 89 291 89 265 89 240 89 214 89 189 89 163 89 137 89 112 89 114 142 114 168 950 155 953 142 948 96 319 89 316 89"/></Shape>
+	    <String CONTENT="IN nomine scẽ et Indiuidue tͥnitatis Ego Theodericꝰ dĩ grã electus metensis. ecclesiis metensi et" HPOS="112" VPOS="89" WIDTH="841" HEIGHT="79"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_53" TAGREFS="LT6183" BASELINE="112 195 476 194 833 194 951 190" HPOS="109" VPOS="150" WIDTH="841" HEIGHT="54">
+            <Shape><Polygon POINTS="109 204 948 201 950 188 945 150 130 150 109 193"/></Shape>
+	    <String CONTENT="Gorziensi in ꝑpetuũ. Qm̃ scȩ̃ matri suȩ metensi ȩccłȩ fidelis semꝑ ⁊ obediens Gorziensis fuit" HPOS="109" VPOS="150" WIDTH="841" HEIGHT="54"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_52" TAGREFS="LT6183" BASELINE="114 243 324 246 954 233" HPOS="109" VPOS="188" WIDTH="844" HEIGHT="74">
+            <Shape><Polygon POINTS="902 191 876 193 850 193 825 196 799 196 774 196 748 196 723 196 697 196 672 196 646 196 620 196 595 196 569 196 544 196 518 196 493 196 467 196 442 196 416 196 390 196 365 196 339 196 316 196 109 199 112 242 112 262 953 242 953 232 945 188 927 191"/></Shape>
+	    <String CONTENT="eccła. et eidem in suis negotiis filialem exhibere affectũ numquã dissimulauit. tã a nobis" HPOS="109" VPOS="188" WIDTH="844" HEIGHT="74"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_51" TAGREFS="LT6183" BASELINE="119 296 469 289 840 286 963 276" HPOS="114" VPOS="234" WIDTH="846" HEIGHT="82">
+            <Shape><Polygon POINTS="856 234 830 234 804 237 792 237 787 239 776 237 753 237 728 237 702 237 677 239 651 239 626 239 600 239 574 239 549 242 523 242 498 242 472 242 447 242 421 245 396 245 370 245 344 245 319 247 293 247 268 247 250 247 114 250 117 293 117 316 960 303 960 275 955 239 899 234 881 234"/></Shape>
+	    <String CONTENT="quã a prȩdecessorib nr̃is diligi plurimũ atq honorari meruit. ⁊ in suis sepe postulatio-" HPOS="114" VPOS="234" WIDTH="846" HEIGHT="82"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_49" TAGREFS="LT6183" BASELINE="120 344 357 341 949 326" HPOS="117" VPOS="290" WIDTH="831" HEIGHT="72">
+            <Shape><Polygon POINTS="119 360 184 362 185 362 186 362 203 357 212 354 231 356 251 359 252 359 253 359 254 359 257 356 262 352 294 352 297 355 303 359 303 360 304 360 305 360 306 360 307 360 318 354 324 351 347 353 396 358 397 358 398 358 399 358 399 357 406 352 409 349 420 351 447 356 448 356 491 349 494 349 495 349 509 355 510 355 511 355 547 349 554 354 555 354 556 354 557 354 558 354 570 347 572 347 616 352 617 352 618 352 619 352 619 351 626 345 628 343 646 343 654 345 669 349 670 349 671 349 672 349 673 349 681 344 681 343 682 344 687 348 688 348 689 348 690 348 726 343 727 343 756 348 757 348 758 348 759 348 769 342 827 347 828 347 829 347 830 347 830 346 837 340 839 338 843 339 865 346 866 346 867 346 868 346 869 346 878 338 879 338 882 338 908 343 909 343 910 343 911 343 911 342 916 337 918 336 946 336 948 327 945 290 901 291 900 291 899 291 874 303 821 294 815 293 814 293 813 293 811 294 791 306 746 306 735 297 733 295 732 295 731 295 731 294 717 294 716 295 687 296 686 296 685 296 682 298 667 308 645 300 638 297 637 297 636 297 635 297 634 297 634 298 631 300 625 307 594 310 527 310 513 304 507 301 506 301 506 300 477 300 476 301 475 301 459 306 434 313 412 308 401 304 400 304 399 304 398 304 397 304 392 308 385 314 375 310 374 310 373 310 287 316 281 311 276 307 275 307 274 307 274 306 257 306 256 307 241 312 231 317 225 313 216 308 215 308 214 308 214 307 201 307 200 308 199 308 198 308 190 314 184 319 167 319 159 315 147 309 146 309 145 309 144 309 117 317 119 345"/></Shape>
+	    <String CONTENT="nib exaudiri. Nouerit itaq p̾sens etas et generatio postinodũ secutura. qͦd uenerabilis" HPOS="117" VPOS="290" WIDTH="831" HEIGHT="72"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_45" TAGREFS="LT6183" BASELINE="115 391 942 371" HPOS="112" VPOS="326" WIDTH="828" HEIGHT="84">
+            <Shape><Polygon POINTS="930 326 904 326 879 326 853 326 827 329 802 329 776 329 751 329 725 331 700 331 674 331 649 334 623 334 597 334 572 334 546 336 521 336 495 336 470 336 444 339 419 339 393 339 367 339 342 342 316 342 291 342 270 342 112 344 114 390 114 410 937 390 940 370 932 326 930 326"/></Shape>
+	    <String CONTENT="frater alb̃tꝰ Gorziensis ȩccłȩ abbas a piȩ memoriȩ dño Stephano p̃decessore ñro. ⁊ acapło" HPOS="112" VPOS="326" WIDTH="828" HEIGHT="84"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_42" TAGREFS="LT6183" BASELINE="118 439 936 416" HPOS="114" VPOS="377" WIDTH="821" HEIGHT="69">
+            <Shape><Polygon POINTS="117 436 117 446 935 431 935 413 927 377 114 393 117 436"/></Shape>
+	    <String CONTENT="metensi sibi et suȩ in ꝑpetuũ ȩccłȩ retroactis temporib impetrauit areã quandã iuxta" HPOS="114" VPOS="377" WIDTH="821" HEIGHT="69"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_41" TAGREFS="LT6183" BASELINE="117 484 356 484 658 475 958 472" HPOS="112" VPOS="413" WIDTH="843" HEIGHT="92">
+            <Shape><Polygon POINTS="930 416 917 416 741 431 367 431 342 431 316 431 291 433 265 433 240 433 214 433 189 436 163 436 137 436 132 431 112 431 114 482 114 505 955 487 955 469 948 413 930 413 930 416"/></Shape>
+	    <String CONTENT="sc̃m Trudonẽ. ubi horrea sͥ fuis successorib in partib illis ualde necessaria ȩdificauit." HPOS="112" VPOS="413" WIDTH="843" HEIGHT="92"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_40" TAGREFS="LT6183" BASELINE="118 532 956 527" HPOS="114" VPOS="472" WIDTH="841" HEIGHT="76">
+            <Shape><Polygon POINTS="117 530 117 548 955 543 955 525 948 472 114 487 117 530"/></Shape>
+	    <String CONTENT="Cȩterũ cũ ibidem camba qͦ quȩ alio nomine brachina dicit᷑ nichilominꝰ indigeret. eã-" HPOS="114" VPOS="472" WIDTH="841" HEIGHT="76"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_39" TAGREFS="LT6183" BASELINE="115 582 934 577" HPOS="112" VPOS="525" WIDTH="820" HEIGHT="79">
+            <Shape><Polygon POINTS="904 528 879 528 853 528 827 528 802 528 316 538 293 530 291 530 265 530 260 530 245 538 224 530 214 530 189 530 186 530 160 538 148 530 137 530 132 525 132 525 130 525 112 536 114 581 114 604 930 597 932 576 925 528 904 528"/></Shape>
+	    <String CONTENT="q simul eũ horreis memorati loci Angustia ñ caꝑet. tempore consequenti cũ nos ad" HPOS="112" VPOS="525" WIDTH="820" HEIGHT="79"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b49936c4" TAGREFS="LT6183" BASELINE="116 628 949 631" HPOS="112" VPOS="579" WIDTH="836" HEIGHT="69">
+            <Shape><Polygon POINTS="114 627 112 648 945 643 948 630 942 579 114 581 114 627"/></Shape>
+	    <String CONTENT="pontificale officiũ diuina uocasset ordinatio. partem contiguȩ t̾rȩ ubi camba c̃strui" HPOS="112" VPOS="579" WIDTH="836" HEIGHT="69"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_37" TAGREFS="LT6183" BASELINE="120 679 945 681" HPOS="117" VPOS="630" WIDTH="825" HEIGHT="74">
+            <Shape><Polygon POINTS="935 630 909 630 884 630 858 630 833 630 807 630 781 630 774 630 117 638 117 678 117 704 942 696 942 678 940 630 935 630"/></Shape>
+	    <String CONTENT="posset sͥ et suis in ꝑpetuũ successorib donari nos et ȩccłam rogauit metensem. Cuius" HPOS="117" VPOS="630" WIDTH="825" HEIGHT="74"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_35" TAGREFS="LT6183" BASELINE="121 726 577 727 950 724" HPOS="117" VPOS="686" WIDTH="831" HEIGHT="64">
+            <Shape><Polygon POINTS="120 724 120 750 945 742 948 722 942 686 117 686 120 724"/></Shape>
+	    <String CONTENT="petitioni una cũ capło metensi benigne acqͥeuimus. ⁊ ꝓ salute p̃fati inclitȩ memoriȩ" HPOS="117" VPOS="686" WIDTH="831" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33" TAGREFS="LT6183" BASELINE="130 773 513 776 968 763" HPOS="125" VPOS="714" WIDTH="840" HEIGHT="79">
+            <Shape><Polygon POINTS="942 724 917 724 891 724 866 724 843 727 559 727 534 727 508 727 482 727 457 727 431 727 406 727 380 727 355 727 329 727 304 727 278 727 252 727 227 727 201 727 176 727 150 727 125 727 127 770 127 793 840 793 840 791 843 791 845 791 873 778 963 788 965 760 958 714 942 714 942 724"/></Shape>
+	    <String CONTENT="p̃decessoris nr̃i. postulatũ ei et suȩ in ꝑpetuũ ȩccłe absq reclamatione aliqua concessimꝰ" HPOS="125" VPOS="714" WIDTH="840" HEIGHT="79"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32" TAGREFS="LT6183" BASELINE="122 821 946 816" HPOS="117" VPOS="765" WIDTH="828" HEIGHT="74">
+            <Shape><Polygon POINTS="884 765 833 775 833 778 643 778 641 775 636 773 628 773 603 773 577 775 551 775 528 775 498 778 117 773 120 819 120 834 940 839 945 814 942 778 907 765 884 765"/></Shape>
+	    <String CONTENT="locũ. Ipse uͦ accepti beneficii ñ ingratus. et caritatis donũ caritatiue recompensans." HPOS="117" VPOS="765" WIDTH="828" HEIGHT="74"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f265c203" TAGREFS="LT6183" BASELINE="116 862 972 866" HPOS="112" VPOS="824" WIDTH="859" HEIGHT="64">
+            <Shape><Polygon POINTS="114 860 112 883 965 888 971 865 971 829 114 824 114 860"/></Shape>
+	    <String CONTENT="se et successores suos laude sui capituli nobis ⁊ metensi ȩccłȩ pactione tali obligauit." HPOS="112" VPOS="824" WIDTH="859" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29" TAGREFS="LT6183" BASELINE="115 907 502 914 663 919 966 919" HPOS="112" VPOS="862" WIDTH="853" HEIGHT="69">
+            <Shape><Polygon POINTS="498 862 472 862 447 862 421 862 396 862 370 862 344 862 319 862 293 862 268 862 242 862 240 862 114 865 114 906 112 931 963 931 965 918 963 878 518 862 498 862"/></Shape>
+	    <String CONTENT="uidelicet qͦd ipse uel quisqͥs successor eius fuerit: singłis annis in festo beat thomȩ" HPOS="112" VPOS="862" WIDTH="853" HEIGHT="69"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5010b92f" TAGREFS="LT6183" BASELINE="115 953 955 966" HPOS="112" VPOS="911" WIDTH="841" HEIGHT="64">
+            <Shape><Polygon POINTS="932 921 907 921 881 921 856 921 830 921 804 921 779 921 753 921 728 921 702 921 677 921 651 918 626 918 600 918 574 916 549 916 523 916 498 913 472 913 447 913 421 913 396 913 370 913 344 913 319 913 304 911 114 911 114 952 112 972 948 975 953 964 950 921 932 921"/></Shape>
+	    <String CONTENT="quartã cere subcustodi metensis ȩccłȩ ꝑsoluet. Unde idem subcustos tres cereos faciet" HPOS="112" VPOS="911" WIDTH="841" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24" TAGREFS="LT6183" BASELINE="114 1008 757 1010 949 1016" HPOS="109" VPOS="957" WIDTH="839" HEIGHT="79">
+            <Shape><Polygon POINTS="930 964 904 964 879 964 853 964 827 962 802 962 776 962 751 962 725 959 700 959 674 959 649 959 623 957 597 957 572 957 546 957 112 957 112 1005 109 1021 942 1036 948 1015 945 964 930 964"/></Shape>
+	    <String CONTENT="ante sepulchrũ sepedicti uenerabilis antecessoris nr̃i in ipsius anniuersario locandos." HPOS="109" VPOS="957" WIDTH="839" HEIGHT="79"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31fac7ad" TAGREFS="LT6183" BASELINE="120 1055 964 1061" HPOS="114" VPOS="1008" WIDTH="849" HEIGHT="69">
+            <Shape><Polygon POINTS="117 1008 117 1054 114 1069 958 1077 963 1059 958 1015 150 1018 125 1008 117 1008"/></Shape>
+	    <String CONTENT="Hȩc gͥ laude utriusq capłi a nobis ⁊ a p̃fato dño alb̃to abbate caritatiue et rationabi-" HPOS="114" VPOS="1008" WIDTH="849" HEIGHT="69"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17" TAGREFS="LT6183" BASELINE="123 1107 452 1114 948 1113" HPOS="120" VPOS="1061" WIDTH="825" HEIGHT="64">
+            <Shape><Polygon POINTS="352 1061 327 1061 301 1061 275 1061 250 1061 224 1061 199 1061 173 1061 148 1061 122 1061 122 1105 120 1120 940 1125 945 1112 942 1074 355 1061 352 1061"/></Shape>
+	    <String CONTENT="lit̾ contracta ut rata sint apud posteros et nulla de cȩt̾o mutatione uacillent. p̃senti" HPOS="120" VPOS="1061" WIDTH="825" HEIGHT="64"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67c4eef7" TAGREFS="LT6183" BASELINE="121 1153 954 1159" HPOS="117" VPOS="1105" WIDTH="836" HEIGHT="79">
+            <Shape><Polygon POINTS="656 1115 631 1115 605 1115 580 1115 554 1115 528 1115 503 1115 477 1115 452 1115 426 1112 401 1112 375 1112 350 1112 324 1110 298 1110 273 1110 247 1110 232 1107 160 1115 132 1105 120 1105 120 1151 117 1169 948 1184 953 1158 950 1123 666 1115 656 1115"/></Shape>
+	    <String CONTENT="cõmendauimus scͥpto. ⁊ tam ñro atq ipsius sigillo quã testiũ subnotatione cõmuni-" HPOS="117" VPOS="1105" WIDTH="836" HEIGHT="79"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5349a123" TAGREFS="LT6183" BASELINE="120 1206 965 1213" HPOS="114" VPOS="1153" WIDTH="849" HEIGHT="90">
+            <Shape><Polygon POINTS="114 1232 291 1225 316 1235 327 1237 329 1237 766 1243 769 1243 771 1243 794 1230 797 1230 822 1243 825 1243 827 1243 960 1227 963 1212 960 1161 401 1169 373 1156 370 1156 367 1156 350 1156 140 1166 122 1153 117 1204 114 1232"/></Shape>
+	    <String CONTENT="entes. nr̃a statuimus auctoritate qͦd quisqͥs huic nr̃e confirmationi de cȩt̾o obuiare." HPOS="114" VPOS="1153" WIDTH="849" HEIGHT="90"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3" TAGREFS="LT6183" BASELINE="118 1259 405 1267 965 1265" HPOS="114" VPOS="1220" WIDTH="849" HEIGHT="74">
+            <Shape><Polygon POINTS="117 1258 114 1281 296 1281 301 1281 316 1294 319 1294 321 1294 324 1294 327 1294 362 1283 370 1281 370 1283 383 1294 385 1294 388 1294 390 1294 498 1283 544 1281 562 1286 590 1294 592 1294 595 1294 597 1294 618 1286 633 1281 958 1289 963 1263 955 1220 117 1220 117 1258"/></Shape>
+	    <String CONTENT="et donationib seu pactionib p̾finitis contraire p̾sumpserit. donec condigne resipu" HPOS="114" VPOS="1220" WIDTH="849" HEIGHT="74"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0" TAGREFS="LT6183" BASELINE="121 1313 367 1317 723 1311" HPOS="117" VPOS="1263" WIDTH="603" HEIGHT="87">
+            <Shape><Polygon POINTS="705 1266 679 1266 654 1266 628 1266 610 1266 457 1273 117 1263 120 1311 120 1329 155 1329 160 1332 176 1345 176 1347 178 1347 181 1347 183 1347 258 1334 296 1329 355 1337 442 1350 444 1350 447 1350 475 1342 518 1327 572 1345 582 1347 585 1347 587 1347 590 1347 600 1345 641 1334 715 1347 720 1309 712 1266 705 1266"/></Shape>
+	    <String CONTENT="erit: anathematis uinculo ꝑmaneat innodatus. Testes." HPOS="117" VPOS="1263" WIDTH="603" HEIGHT="87"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="462" VPOS="1762" WIDTH="443" HEIGHT="429" ID="eSc_textblock_f5340e2d" TAGREFS="BT16584">
+          <Shape><Polygon POINTS="462 2191 905 2191 902 1762 462 1762 462 2191"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
