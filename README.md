@@ -1,7 +1,11 @@
 # HTRogène - Medieval Latin
 
-<img src="https://projet.biblissima.fr/sites/default/files/logos/biblissima-baseline-sombre-france2030.png" height="150px" />
-<img src="https://projet.biblissima.fr/sites/default/files/styles/large_600x600_/public/2024-08/illustration-htrogene-carre.png" height="150px" />
+<table border="0" width="100%" style="width: 100%; border:0;">
+  <tr>
+    <td align="left"><img src="https://projet.biblissima.fr/sites/default/files/logos/biblissima-baseline-sombre-france2030.png" height="150px" /></td>
+    <td align="right"><img src="https://projet.biblissima.fr/sites/default/files/styles/large_600x600_/public/2024-08/illustration-htrogene-carre.png" height="150px" /></td>
+  </tr>
+</table>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
@@ -96,7 +100,7 @@ You are free to share and adapt the material, provided appropriate credit is giv
 
 If you use this dataset in your research, please cite it as follows:
 
-<!--Alba, Rachele; Rubin, Giorgia. (2023). HTRogene, Medieval Italian corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation. Zenodo. https://doi.org/10.5281/zenodo.8272728-->
+> Hermand, F., Brootcorne, M., Vlachou-Efstathiou, M., Boschetti, F., Fischer, F., Chagué, A., & Clérice, T. HTRogène, Medieval Latin corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation [Data set]. https://github.com/HTRogene/latin
 
 
 ## Acknowledgments
